@@ -1,6 +1,2 @@
 # Ignore everything
-*
-
-# But not these files...
-!.gitignore
-!2_All_code_and_data/*
+other_data/
